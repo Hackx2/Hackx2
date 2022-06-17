@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hackx2
 - 👀 I’m interested in Friday night funkin
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on fnf sonic.exe
 - 📫 How to reach me Discord HackTheAir#1098
 
 <!---
@@ -14,4 +13,6 @@ You can click the Preview link to take a look at your changes.
 ayo
 UwU
 OwO
+
+Funfact i am not gonna change this
 --->
