@@ -1,4 +1,4 @@
-![Icon](Icon)
+![Icon](Icon.jpg)
 
 - 👋 Hi, I’m @Hackx2
 - 👀 I’m interested in Friday night funkin
