@@ -1,9 +1,13 @@
 ![Icon](Icon.jpg)
 
+# About Me
 - 👋 Hi, I’m @Hackx2
-- 👀 I’m interested in Friday night funkin
-- 🌱 I’m currently learning ...
-- 📫 How to reach me Discord HackTheAir#1098
+- 👀 I’m interested in Friday Night Funkin'
+- 📫 My Discord Tag Is Discord HackTheAir#1098
+
+# Stuff Im Working On
+- Discord Bot
+- 1.19 Minecraft Server
 
 <!---
 Hackx2/Hackx2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +23,5 @@ OwO
 Funfact i am not gonna change this 
 
 08/07/2022 Its still here
+09/07/2022 Still here
 --->
