@@ -1,4 +1,4 @@
-![Icon](Icon.jpg)
+![Icon](https://avatars.githubusercontent.com/u/80620538?s=400&u=6b1ad2f1c6cd7947732f54c45b557182ffcfb599&v=4)
 
 # About Me
 - 👋 Hi, I’m @Hackx2
