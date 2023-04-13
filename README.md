@@ -1,26 +1,34 @@
+<div align="center" style="font-weight: bold">
+
 ![Icon](https://avatars.githubusercontent.com/u/80620538?s=400&u=6b1ad2f1c6cd7947732f54c45b557182ffcfb599&v=4)
 
 # About Me
-- 👋 Hi, I’m @Hackx2
-- 📫 My Discord Is (HackTheAir#1098)
+👋 Hi, I’m @Hackx2<br/>
+📫 My Discord Is (HackTheAir#1098)<br/>
 
-### Languages and Tools:
+<hr />
+<br/>
+  
+## Languages and Tools:
+<p>
+  <img src='https://skillicons.dev/icons?i=haxe,typescript,javascript,vscode,python,lua'/>
+</p>
+  
+<hr />
+<br/>
+  
+# Projects
+HxTimer<br/>
+Psy Engine<br/>
+Sonic Symphony<br/>
+VS C0RE<br/>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="lua" width="30px" src="https://i.imgur.com/DRES6yV.png" /> 
-<img align="left" alt="haxe" width="26px" src="https://i.imgur.com/UR4qRt6.png" /><br />
-
-# Stuff Im Working On
-- HxTimer
-- Psy Engine
-- Sonic Symphony
-
+<hr />
+<br/>
 
 # Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Hackx2&show_icons=true&theme=radical&count_private=true)
-
+</div>
 <!---
 Hackx2/Hackx2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
