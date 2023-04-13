@@ -3,8 +3,8 @@
 ![Icon](https://avatars.githubusercontent.com/u/80620538?s=400&u=6b1ad2f1c6cd7947732f54c45b557182ffcfb599&v=4)
 
 # About Me
-👋 Hi, I’m @Hackx2<br/>
-📫 My Discord Is (HackTheAir#1098)<br/>
+### 👋 Hi, I’m @Hackx2<br/>
+### 📫 My Discord Is (HackTheAir#2936)<br/>
 
 <hr />
 <br/>
@@ -18,10 +18,10 @@
 <br/>
   
 # Projects
-HxTimer<br/>
-Psy Engine<br/>
-Sonic Symphony<br/>
-VS C0RE<br/>
+### ⏲️ HxTimer
+### 🔮 Psy Engine
+### 🦔 Sonic Symphony
+### 💍 VS C0RE
 
 <hr />
 <br/>
