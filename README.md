@@ -11,7 +11,8 @@
   
 ## Languages and Tools:
 <p>
-  <img src='https://skillicons.dev/icons?i=haxe,typescript,javascript,vscode,python,lua'/>
+  <img src='https://skillicons.dev/icons?i=haxe,typescript,javascript,vscode,python'/>
+  <img src='https://skillicons.dev/icons?i=lua,haxeflixel,vue,react,nextjs'/>
 </p>
   
 <hr />
