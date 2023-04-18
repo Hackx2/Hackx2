@@ -1,11 +1,14 @@
 <div align="center" style="font-weight: bold">
 
-![Icon](https://avatars.githubusercontent.com/u/80620538?s=400&u=6b1ad2f1c6cd7947732f54c45b557182ffcfb599&v=4)
-
+<!-- ![Icon](https://avatars.githubusercontent.com/u/80620538?s=400&u=6b1ad2f1c6cd7947732f54c45b557182ffcfb599&v=4) -->
+![Icon](public/invis.png)
 # About Me
-### 👋 Hi, I’m @Hackx2<br/>
-### 📫 My Discord Is (HackTheAir#2936)<br/>
+<h3>
+👋 Hi, I’m @Hackx2<br/>
+📫 My Discord Is <strong>(HackTheAir#2936)<strong> <br/>
+</h3>
 
+<br/>
 <hr />
 <br/>
   
@@ -14,16 +17,20 @@
   <img src='https://skillicons.dev/icons?i=haxe,typescript,javascript,vscode,python'/>
   <img src='https://skillicons.dev/icons?i=lua,haxeflixel,vue,react,nextjs'/>
 </p>
-  
+<br/>
 <hr />
 <br/>
   
 # Projects
-### ⏲️ HxTimer
-### 🔮 Psy Engine
-### 🦔 Sonic Symphony
-### 💍 VS C0RE
+  <h3> 
+    😔 Psy Engine<br/>
+    ⏲️ HxTimer<br/>
+    🔮 Psy Engine<br/>
+    🦔 Sonic Symphony<br/>
+    💍 VS C0RE<br/>
+  </h3>
 
+<br/>
 <hr />
 <br/>
 
