@@ -23,11 +23,10 @@
   
 # Projects
   <h3> 
-    😔 Psy Engine<br/>
-    ⏲️ HxTimer<br/>
-    🔮 Psy Engine<br/>
-    🦔 Sonic Symphony<br/>
-    💍 VS C0RE<br/>
+    <a style="color: #D0ADFF;" href="https://github.com/hackx2">🔮 Psy Engine</a><br/>
+    <a style="color: #ACFFAE;" href="https://github.com/hackx2">⏲️ HxTimer</a><br/>
+    <a style="color: #FFE6AC;" href="https://github.com/hackx2">🦔 Sonic Symphony</a><br/>
+    <a style="color: #ACACFF;" href="https://github.com/hackx2">💍 VS C0RE</a><br/>
   </h3>
 
 <br/>
