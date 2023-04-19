@@ -37,7 +37,13 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Hackx2&show_icons=true&theme=radical&count_private=true)
   
 ![](https://komarev.com/ghpvc/?username=Hackx2&color=7038ff)
-
+  
+<br/>
+<hr />
+<br/>
+  
+# Funi Guy!
+[@TheoFoxxo](https://github.com/TheoFoxxo)  
 </div>
 <hr />
 <!---
