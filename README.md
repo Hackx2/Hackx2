@@ -21,13 +21,16 @@
 <hr />
 <br/>
   
-# Projects
+# WIP Projects
   <h3> 
     <a style="color: #D0ADFF;" href="https://github.com/Hackx2/FNF-PsyEngine">🔮 Psy Engine</a><br/>
     <a style="color: #ACFFAE;" href="https://github.com/Hackx2/HxTimer">⏲️ HxTimer</a><br/>
     <a style="color: #FFE6AC;" href="https://github.com/Hackx2/FNF-Sonic-Symphony">🦔 Sonic Symphony</a><br/>
     <a style="color: #ACACFF;" href="https://github.com/Hackx2/VS-C0RE">💍 VS C0RE</a><br/>
   </h3>
+  <br/>
+<hr />
+<br/>
   
 
 # Projects
