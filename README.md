@@ -5,7 +5,7 @@
 # About Me
 <h3>
 👋 Hi, I’m @Hackx2<br/>
-📫 My Discord Is <strong>(@HackTheAir)<strong> <br/>
+📫 My Discord Is <strong>(@ppsyhe)<strong> <br/>
 </h3>
 
 <br/>
