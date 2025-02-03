@@ -1,0 +1,1 @@
+sooooo, I'm your local goober that can code, draw (sometimes), and be zesty (no). :3c
