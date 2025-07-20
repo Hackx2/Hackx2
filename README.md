@@ -12,3 +12,4 @@ Interesting, eh?
 
 ["messy I'm aware"]: #
 [![haxe-github](https://github-readme-stats.vercel.app/api/pin/?username=guineapiguuhh&repo=haxe-github&theme=dark&show_icons=true)](https://github.com/guineapiguuhh/haxe-github)
+[![theo-website](https://github-readme-stats.vercel.app/api/pin/?username=TheoFoxxo&repo=Website&theme=dark&show_icons=true)](https://github.com/TheoFoxxo/Website)
