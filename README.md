@@ -6,4 +6,4 @@ Interesting, eh?
 
 # Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheoFoxxo&show_icons=true&theme=dark"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Hackx2&show_icons=true&theme=dark"><br>
