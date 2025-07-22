@@ -11,5 +11,12 @@ Interesting, eh?
 # Project(s) I've contributed to.
 
 ["messy I'm aware"]: #
+
+["Psych Engine"]: #
+[![FNF-PsychEngine](https://github-readme-stats.vercel.app/api/pin/?username=ShadowMario&repo=FNF-PsychEngine&theme=dark&show_icons=true)](https://github.com/ShadowMario/FNF-PsychEngine)
+
+["Haxe Github"]: #
 [![haxe-github](https://github-readme-stats.vercel.app/api/pin/?username=guineapiguuhh&repo=haxe-github&theme=dark&show_icons=true)](https://github.com/guineapiguuhh/haxe-github)
+
+["Theo's Website"]: #
 [![theo-website](https://github-readme-stats.vercel.app/api/pin/?username=TheoFoxxo&repo=Website&theme=dark&show_icons=true)](https://github.com/TheoFoxxo/Website)
